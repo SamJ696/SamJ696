@@ -13,7 +13,7 @@
 ### Coding Platforms profile
 <p align="left">
 <a href="https://www.codechef.com/users/samj696" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="SamJ696" height="30" width="40" /></a>
-<a href="https://leetcode.com/Samyak_Jain/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="SamJ696" height="30" width="40" /></a>
+<a href="https://leetcode.com/SamJ696/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="SamJ696" height="30" width="40" /></a>
 </p>
 
 ### 🛠️ Languages and Tools:
