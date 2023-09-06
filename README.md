@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate onto some great ideas and creating some interesting projects.
 - 🤔 I’m looking for help in contributing to Open Source projects.
 - 📫 How to reach me: samyak6963@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1abArmSnPXSde7AI52pw_bHypkYLdKmzF/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1EOaJEUC2lkC5hSeRL4F_NX7bYXBbrass/view?usp=drive_link)
 
 ### Coding Platforms profile
 <p align="left">
