@@ -4,7 +4,6 @@
 
  <img align="right" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" alt="animated" />
 
-- 🌱 In a Process of Becoming a "Full Stack React Native Developer" ;
 - 👯 I’m looking to collaborate onto some great ideas and creating some interesting projects.
 - 🤔 I’m looking for help in contributing to Open Source projects.
 - 📫 How to reach me: samyak6963@gmail.com
